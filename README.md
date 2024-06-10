@@ -1,11 +1,11 @@
 #### Dokumentasi API AT
 #### Security Bearer Token
 ```json
-PATCH https://linkapi.agungtoyota.co.id/
+XXX
 ```
 ### 1. get All Cabang AT (Menampilkan Seluruh Cabang AT)
 ```json
-get https://linkapi.agungtoyota.co.id/branch 
+XXX
 ```
 
 Contoh Response: 
